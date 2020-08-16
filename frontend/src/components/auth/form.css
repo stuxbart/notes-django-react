@@ -1,0 +1,13 @@
+.form{
+    padding: 10%;
+  }
+.form .checkbox {
+  font-weight: 400;
+}
+.form .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
